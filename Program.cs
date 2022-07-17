@@ -14,5 +14,12 @@ using Addressbook_FileIO;
 //show.ContactDetails();
 //show.display();
 
-ReadOrWriteFile ReadOrwrite = new ReadOrWriteFile();
-ReadOrwrite.ReadOrWrite();
+//  ReadOrWriteFile ReadOrwrite = new ReadOrWriteFile();
+//  ReadOrwrite.ReadOrWrite();
+
+//  CreateCopyOfFile FileCopy = new CreateCopyOfFile();
+//  FileCopy.CopyFile();
+
+Filehandling filehandling = new Filehandling();
+filehandling.FileHandling();
+
