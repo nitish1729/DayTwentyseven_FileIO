@@ -20,6 +20,9 @@ using Addressbook_FileIO;
 //  CreateCopyOfFile FileCopy = new CreateCopyOfFile();
 //  FileCopy.CopyFile();
 
-Filehandling filehandling = new Filehandling();
-filehandling.FileHandling();
+//Filehandling filehandling = new Filehandling();
+//filehandling.FileHandling();
+
+DirectoryInfoClass show = new DirectoryInfoClass();
+show.dispaly();
 
